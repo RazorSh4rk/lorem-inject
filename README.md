@@ -6,6 +6,10 @@ Just include the file in your page:
 
 `<script src="https://cdn.rawgit.com/RazorSh4rk/lorem-inject/72c07c26/lorem.min.js"></script>`
 
+Or use [npm](https://www.npmjs.com/package/lorem-inject):
+
+`npm install lorem-inject`
+
 And you are set to replace blocks of text with these:
 
 ```html
